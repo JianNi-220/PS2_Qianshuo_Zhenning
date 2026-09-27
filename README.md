@@ -373,13 +373,11 @@ Possible interpretations include:
 
 No simulated bids are treated as human behavioral evidence.
 
-### Hugging Face Space
+## Hugging Face Space
 
 https://huggingface.co/spaces/Zn7777/PS2_Qianshuo_Zhenning_PM_Bid
 
----
-
-### A0 Poster
+## A0 Poster
 
 [View the A0 Poster on Canva](https://canva.link/vlx5ljli23z7qk8)
 
