@@ -1,5 +1,6 @@
 # Auctions with Risk Reserves for Scarce AI Research 
 **Qianshuo (Aaron) Wang and Zhenning Wang — COMSCI/ECON 206, Professor Luyao Zhang**
+
 **FP8 · Session D · PS2 computational artifact**
 
 ![Project workflow](images/project_workflow.png)
