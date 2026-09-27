@@ -391,3 +391,11 @@ Run:
 python3 -m unittest -v test_simulation.py
 python3 simulation.py --seed 20260926 --batches 1000 --out results
 python3 verify_reproduction.py
+
+## Runnable notebook
+
+The full computational comparison can also be run in Google Colab:
+
+[https://colab.research.google.com/github/JianNi-220/PS2_Qianshuo_Zhenning/blob/main/PS2_comparison.ipynb](https://colab.research.google.com/github/JianNi-220/PS2_Qianshuo_Zhenning/blob/main/PS2_comparison.ipynb)
+
+Run all notebook cells to reproduce the tests and simulation.
