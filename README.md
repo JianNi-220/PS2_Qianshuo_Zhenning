@@ -379,6 +379,10 @@ https://huggingface.co/spaces/Zn7777/PS2_Qianshuo_Zhenning_PM_Bid
 
 ---
 
+### A0 Poster
+
+[View the A0 Poster on Canva](https://canva.link/vlx5ljli23z7qk8)
+
 ## Runnable notebook
 
 The full computational comparison can also be run in Google Colab:
@@ -387,19 +391,29 @@ The full computational comparison can also be run in Google Colab:
 
 Run all notebook cells to reproduce the tests and simulation.
 
+---
 
-## Run and verify
+## Repository structure
 
-The simulation and tests require Python 3.9+ and no third-party packages.
-
-The recorded fresh run used Python 3.9.6.
-
-Run:
-
-```bash
-python3 -m unittest -v test_simulation.py
-python3 simulation.py --seed 20260926 --batches 1000 --out results
-python3 verify_reproduction.py
-
+```text
+PS2_Qianshuo_Zhenning/
+│
+├── README.md
+├── LICENSE
+├── simulation.py
+├── test_simulation.py
+├── verify_reproduction.py
+├── PS2_comparison.ipynb
+├── fresh_run.json
+├── verification.txt
+├── primary_summary.csv
+├── demo_inputs.csv
+├── reference_outputs.zip
+│
+├── images/
+│   └── project_workflow.png
+│
+└── results/
+    └── generated simulation outputs
 
 
