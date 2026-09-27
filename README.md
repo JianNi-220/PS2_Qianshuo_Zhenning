@@ -1,5 +1,6 @@
 # FP8 · Session D · PS2 computational artifact
 
+![Project workflow](images/project_workflow.png)
 **Qianshuo (Aaron) Wang and Zhenning Wang — COMSCI/ECON 206, Professor Luyao Zhang**
 
 Can an auction with reserved capacity for objectively high-risk research requests improve the allocation of scarce AI research capacity relative to a pure auction?
